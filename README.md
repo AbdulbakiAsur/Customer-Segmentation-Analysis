@@ -34,5 +34,5 @@ The dataset used in this analysis includes the following key features:
 4. Open the Jupyter Notebook `mall_customer_data_analysis.ipynb` to explore the analysis.
 
 ## Contact
-For any questions or suggestions, please contact me at [abdulbakiasur17@gmail.com].
+For any questions or suggestions, please contact me at abdulbakiasur17@gmail.com.
 
