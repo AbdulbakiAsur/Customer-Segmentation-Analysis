@@ -28,11 +28,11 @@ The dataset used in this analysis includes the following key features:
 - **Plotly** for interactive 3D visualizations
 
 ## How to Use
-1. Clone this repository: `git clone https://github.com/[YourUsername]/Customer-Segmentation-Analysis.git`
+1. Clone this repository: `git clone https://github.com/AbdulbakiAsur/Customer-Segmentation-Analysis.git`
 2. Navigate to the project directory.
 3. Install the required libraries using `pip install -r requirements.txt`.
 4. Open the Jupyter Notebook `mall_customer_data_analysis.ipynb` to explore the analysis.
 
 ## Contact
-For any questions or suggestions, please contact me at [Your Email Address].
+For any questions or suggestions, please contact me at [abdulbakiasur17@gmail.com].
 
